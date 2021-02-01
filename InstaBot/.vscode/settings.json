@@ -1,0 +1,6 @@
+{
+    "python.analysis.cacheFolderPath": "\"python.pythonPath\": \"/users/instapy/bin/python\"",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
